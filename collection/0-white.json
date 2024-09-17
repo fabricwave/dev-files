@@ -1,0 +1,18 @@
+{
+    "title": "0",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "White chalk"
+        },
+        "description": {
+            "type": "string",
+            "description": "A stick of white chalk"
+        },
+        "image": {
+            "type": "string",
+            "description": "https://fabricwave.github.io/dev-files/collection/0-white-chalk.png"
+        }
+    }
+}
